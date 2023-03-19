@@ -1,0 +1,13 @@
+{
+   "name": "Tranmission Client",
+   "display": "standalone",
+   "icons": [{
+      "src": "./icon_rounded_192.png",
+      "type": "image/png",
+      "sizes": "192x192"},
+   {
+      "src": "./icon_rounded_512.png",
+      "type": "image/png",
+      "sizes": "512x512"}
+   ]
+}
